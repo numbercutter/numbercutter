@@ -3,12 +3,11 @@
 
 
 
-Skills: VUE JS / JS / HTML / CSS / PYTHON / MQ4L / WEB3 / MORALIS
+Skills: VUE JS / JS / HTML / SCSS / PYTHON / MQ4L / WEB3 / MORALIS
 
-- 📫 How to reach me: discord: itch#7172 
+discord: itch#7172 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/numbercutter)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numbercutter)](https://github.com/anuraghazra/github-readme-stats)
 
