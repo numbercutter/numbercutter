@@ -1,6 +1,6 @@
 ### NUMBERCUTTER
 #### Professional quant who got caught in a web3
-![Professional quant who got caught in a web3]
+
 
 
 Skills: VUE JS / JS / HTML / CSS / PYTHON / MQ4L / WEB3 / MORALIS
