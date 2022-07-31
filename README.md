@@ -1,5 +1,5 @@
 ### NUMBERCUTTER
-#### Professional quant who got caught in a web3
+#### Professional Quant who got caught in a Web3
 
 
 
