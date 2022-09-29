@@ -5,7 +5,7 @@
 
 Skills: VUE JS / JS / HTML / SCSS / PYTHON / MQ4L / WEB3 / ETHERS / MORALIS
 
-discord: itch#7172 
+discord: numbercutter#7172
 
 
 
