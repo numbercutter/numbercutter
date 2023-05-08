@@ -1,5 +1,5 @@
 ### NUMBERCUTTER
-#### Quantitative Finance | Blockchain Dapps | Sound Healing | Creative Mind Design
+#### Quantitative Finance | Blockchain Dapps | Sound Healing 
 
 
 
