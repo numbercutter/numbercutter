@@ -1,9 +1,7 @@
 ### NUMBERCUTTER
-#### Professional Quant who got caught in a Web3
+#### Quantitative Finance | Blockchain Dapps | Sound Healing | Creative Mind Design
 
 
-
-Skills: VUE JS / JS / HTML / SCSS / PYTHON / MQ4L / WEB3 / ETHERS / MORALIS
 
 discord: numbercutter#7172
 
