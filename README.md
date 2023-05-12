@@ -1,5 +1,5 @@
 ### NUMBERCUTTER
-#### Quantitative Finance | Blockchain Dapps | Sound Healing 
+#### Quantitative Finance | Blockchain Dapps | Hypnotic Audio/Visuals
 
 
 
