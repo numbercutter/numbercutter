@@ -1,4 +1,4 @@
-### \||}|}
+### VDD
 #### App Developer \| Quant Specialist
 
 what i am doing now? : https://vdd.monster/now
