@@ -1,7 +1,5 @@
 <a href="https://iconstructa.com"><img alt="iconstructa — brands, typefaces, sound and image, built as modes of one wheel" src="./assets/hero.svg" width="100%"></a>
 
-<a href="https://iconstructa.com"><img alt="iconstructa — Music, sound, visuals" src="./assets/brand-iconstructa.svg" width="100%"></a>
-
 
 <img alt="The iconstructa palette" src="./assets/palette.svg" width="100%">
 
